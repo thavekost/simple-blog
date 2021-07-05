@@ -27,9 +27,4 @@ Route::resource('dashboard/posts', PostController::class);
 
 Route::resource('dashboard/users', UserController::class);
 
-//Route::view('/dashboard', 'admin/users');
-//Route::get('/dashboard/users', 'UserController@index');
-
-//Route::get('/dashboard/posts', 'PostController@index');
-
 Auth::routes();
