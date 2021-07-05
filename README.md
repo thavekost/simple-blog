@@ -1,5 +1,5 @@
 ## get started
-.env erstellen, füllen
-php artisan migrate
-composer install
-php artisan serve
+.env erstellen, füllen <br>
+php artisan migrate <br>
+composer install <br>
+php artisan serve <br>
